@@ -1,0 +1,14 @@
+{
+  "name": "sistem-cuti-dan-tiket",
+  "version": "1.0.0",
+  "description": "Hasil vibe coding User Story 1 (HRD melihat cuti pegawai) dan User Story 2 (pengguna memesan tiket pesawat)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
